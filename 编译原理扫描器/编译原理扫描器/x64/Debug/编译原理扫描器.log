@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  main.cpp
+  cifa.cpp
+f:\course\编译原理课程\编译原理课程设计\编译原理扫描器\编译原理扫描器\cifa.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\course\编译原理课程\编译原理课程设计\编译原理扫描器\编译原理扫描器\cifa.cpp(90): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+f:\course\编译原理课程\编译原理课程设计\编译原理扫描器\编译原理扫描器\cifa.cpp(396): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  yufa.cpp
+  正在生成代码...

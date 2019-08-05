@@ -1,0 +1,19 @@
+var
+	n,s:integer;
+begin
+	n:=0;
+	s:=2;
+	if n <= s then
+		n:=n+1;
+	else
+		s:=s+1;
+	while  do{小于
+		5时就
+	各种自加，还有相乘
+	最终得到想要的结果
+		}
+		n:=n+1;
+		s:=s*s;
+		//循环最终得到s的连乘值
+	end;
+end.
